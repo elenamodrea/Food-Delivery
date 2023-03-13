@@ -1,0 +1,2 @@
+ the clients that have ordered more than 2 of times so far and the value of the order was higher than 10
+alex 5

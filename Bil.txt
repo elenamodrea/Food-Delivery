@@ -1,0 +1,5 @@
+idClient idOrder date 
+3 3 Mon May 16 08:17:23 EEST 2022
+list of products:
+menu1 176 16 8 4.75 205 79
+Total price is: 79

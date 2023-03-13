@@ -1,0 +1,5 @@
+the products ordered on  Mon
+"""Drunken"" Pork Chops " 153 8 12 3.75 40 97 and the number of times: 3
+"""Virgin Mary"" Aspic " 180 11 5 0.0 479 78 and the number of times: 3
+menu1 176 16 8 4.75 205 79 and the number of times: 3
+Zucchini Raisin Bran Muffins  229 12 4 4.375 224 26 and the number of times: 1
